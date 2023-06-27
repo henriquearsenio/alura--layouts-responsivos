@@ -1,2 +1,2 @@
-# layouts-responsivos
-Curso Alura -- Layouts Responsivos: trabalhando com layouts mobile
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
